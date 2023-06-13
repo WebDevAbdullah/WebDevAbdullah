@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a frontend developer, and<br>I'm currently learning Hugo<br>
-
+I'm a frontend developer who is interested in programming👨🏽‍💻 and cloud computing technology☁️.
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/WebDevAbdullah) 
